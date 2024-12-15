@@ -3,7 +3,7 @@ title: "Strong Electronic Metal−Support Interactions Enable the Increased Spin
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-13-paper-title-number-1
-excerpt: '1'
+excerpt: 
 date: 2024-09-13
 venue: Journal 1
 slidesurl: 
