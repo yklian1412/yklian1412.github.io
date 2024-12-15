@@ -1,9 +1,9 @@
 ---
 title: "Strong Electronic Metal−Support Interactions Enable the Increased Spin State of Co−N4 Active Sites and Performance for Acidic Oxygen Reduction Reaction"
 collection: publications
-category:
+category: manuscripts
 permalink: /publication/2024-09-13-paper-title-number-1
-excerpt: 
+excerpt: '1'
 date: 2024-09-13
 venue: Journal 1
 slidesurl: 
