@@ -5,7 +5,7 @@ category:
 permalink: /publication/2024-09-13-paper-title-number-1
 excerpt: 
 date: 2024-09-13
-venue:
+venue: Journal 1
 slidesurl: 
 paperurl: 'http://academicpages.github.io/files/Journal1.pdf'
 ---
