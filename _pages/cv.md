@@ -13,7 +13,7 @@ Education
 ======
 * PhD in National University of Singapore, 2025-2029
 * MSc in National University of Singapore, 2023-2024
-* BE  in Zhengzhou University, 2019-2023
+* BEng  in Zhengzhou University, 2019-2023
 
 Work experience
 ======
