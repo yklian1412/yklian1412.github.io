@@ -12,7 +12,7 @@ I gained my Bachelor's degree at [Zhengzhou University](https://www.zzu.edu.cn/)
 Experience
 ------
 ---
-excerpt: "<br/><img src='/images/PhD offer.png'>"
+excerpt: "<br/><img src='/images/experience.png'>"
 ---
 
 Site-wide configuration
