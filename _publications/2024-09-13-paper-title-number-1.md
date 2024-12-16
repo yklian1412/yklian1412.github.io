@@ -8,6 +8,6 @@ the oxygen reduction reaction (ORR). However, a notable performance gap persists
 date: 2024-09-13
 venue: ACS Nano
 slidesurl: 
-paperurl: 'https://academicpages.github.io/files/Journal1.pdf'
+paperurl: 'https://yklian1412.github.io/files/Journal1.pdf'
 citation:
 ---
