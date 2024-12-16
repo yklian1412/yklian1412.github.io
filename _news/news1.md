@@ -1,6 +1,6 @@
 ---
 title: "News 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "On 18th November, I got the PhD offer from NUS. Very glad to start my fresh journey!!<br/><img src='/images/PhD offer.png'>"
 collection: news
 ---
 
