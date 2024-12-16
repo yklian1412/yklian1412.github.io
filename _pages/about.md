@@ -11,9 +11,7 @@ I gained my Bachelor's degree at [Zhengzhou University](https://www.zzu.edu.cn/)
 
 Experience
 ------
----
 <br/><img src='/images/experience.png'>
----
 
 Site-wide configuration
 ------
