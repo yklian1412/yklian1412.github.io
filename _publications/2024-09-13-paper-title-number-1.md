@@ -3,7 +3,7 @@ title: "Strong Electronic Metal−Support Interactions Enable the Increased Spin
 collection: publications
 category: manuscripts
 permalink: 
-excerpt: “<br/><img src='/images/material in paper1.png'>”
+excerpt: <br/><img src='/images/material in paper1.png'>
 date: 2024-09-13
 venue: ACS Nano
 slidesurl: 
