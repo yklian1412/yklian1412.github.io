@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pretty happy to see you here!!"
+title: "It's a pleasure to see you here!!"
 author_profile: true
 redirect_from: 
   - /about/
