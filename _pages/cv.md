@@ -15,8 +15,6 @@ Educational experience
 * MSc (MSE) in National University of Singapore, 08/2023-07/2024
 * BEng (MSE) in Zhengzhou University, 09/2019-06/2023
 
-MSE: Materials Science and Engineering
-
 Work experience
 ======
 * To be continued
