@@ -7,7 +7,7 @@ excerpt: <br/><img src='/images/material in paper1.png'>
 date: 2024-09-13
 venue: ACS Nano
 slidesurl: 
-paperurl: 'https://yklian1412.github.io/files/Publication1.pdf'
+paperurl: 'https://yklian1412.github.io/files/Journal1.pdf'
 citation:
 ---
 Abstract
