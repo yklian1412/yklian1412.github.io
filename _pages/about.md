@@ -16,7 +16,7 @@ Experience
 Gitmind
 ------
 Below is a list of mind mappings I made to link some basic knowledge with each other.
-**[Design of redox mediators to enhance battery performance](https://gitmind.com/app/docs/mr236j1q)**
+*[Design of redox mediators to enhance battery performance](https://gitmind.com/app/docs/mr236j1q)
 
 To be continued
 ------
